@@ -1,1 +1,1 @@
-# jarvis-ai-desktop-assistant
+#Nova-ai-desktop-assistant
